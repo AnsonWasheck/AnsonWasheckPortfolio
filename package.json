@@ -1,0 +1,8 @@
+{
+  "name": "portfolio-chat-shell",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": { "@tabler/icons-react": "^3.46.0", "next": "^16.3.1", "react": "^19.2.8", "react-dom": "^19.2.8" },
+  "devDependencies": { "@types/node": "^22.15.0", "@types/react": "^19.1.0", "@types/react-dom": "^19.1.0", "typescript": "^5.8.3" }
+}
